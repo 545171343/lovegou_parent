@@ -1,0 +1,22 @@
+server:
+  port: 4396    #github服务器端口
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  profiles:
+     active: native
+  application:
+     name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        native:
+           search-locations: C:/Users/Administrator/Desktop/local_github/workset/lovegou_parent02
+        #git:
+          #uri: https://github.com/545171343/lovegou_parent02.git
+          # username: 545171343
+          # password: lx19920830..
