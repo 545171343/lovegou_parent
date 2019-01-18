@@ -47,7 +47,8 @@ public class Brand extends Model<Brand> {
      * 品牌LOGO
      */
     private String logo;
-
+    @TableField(exist=false) //数据库中不需要映射,仅仅用来封装数据传到前台
+    private ProductType productType;
 
     public Long getId() {
         return id;
@@ -132,6 +133,14 @@ public class Brand extends Model<Brand> {
     @Override
     protected Serializable pkVal() {
         return this.id;
+    }
+
+    public ProductType getProductType() {
+        return productType;
+    }
+
+    public void setProductType(ProductType productType) {
+        this.productType = productType;
     }
 
     @Override

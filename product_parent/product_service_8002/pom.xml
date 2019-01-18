@@ -74,7 +74,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>io.itsource.lx.lovegou.ProductApplication_8002</mainClass>
+                    <mainClass>io.itsource.lx.lovegou.ProductApplication</mainClass>
                     <layout>ZIP</layout>
                 </configuration>
                 <executions>

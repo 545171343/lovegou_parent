@@ -1,7 +1,11 @@
 package io.itsource.lx.lovegou.mapper;
 
-import io.itsource.lx.lovegou.domain.Brand;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
+import com.baomidou.mybatisplus.plugins.Page;
+import io.itsource.lx.lovegou.domain.Brand;
+import io.itsource.lx.lovegou.query.BrandQuery;
+
+import java.util.List;
 
 /**
  * <p>
@@ -13,4 +17,5 @@ import com.baomidou.mybatisplus.mapper.BaseMapper;
  */
 public interface BrandMapper extends BaseMapper<Brand> {
 
+    List<Brand> selectPageList(Page<Brand>page, BrandQuery query);
 }

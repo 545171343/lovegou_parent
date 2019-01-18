@@ -1,11 +1,10 @@
 package io.itsource.lx.lovegou.controller;
 
-import io.itsource.lx.lovegou.service.IBrandService;
 import io.itsource.lx.lovegou.domain.Brand;
 import io.itsource.lx.lovegou.query.BrandQuery;
+import io.itsource.lx.lovegou.service.IBrandService;
 import io.itsource.lx.lovegou.util.AjaxResult;
 import io.itsource.lx.lovegou.util.PageList;
-import com.baomidou.mybatisplus.plugins.Page;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -81,8 +80,7 @@ public class BrandController {
     @RequestMapping(value = "/json",method = RequestMethod.POST)
     public PageList<Brand> json(@RequestBody BrandQuery query)
     {
-        Page<Brand> page = new Page<Brand>(query.getPage(),query.getRows());
-            page = brandService.selectPage(page);
-            return new PageList<Brand>(page.getTotal(),page.getRecords());
+       // Page<Brand> page = new Page<Brand>(query.getPage(),query.getRows());
+            return  brandService.selectPageList(query);
     }
 }

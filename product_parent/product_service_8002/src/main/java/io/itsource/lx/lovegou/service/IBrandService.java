@@ -2,6 +2,8 @@ package io.itsource.lx.lovegou.service;
 
 import io.itsource.lx.lovegou.domain.Brand;
 import com.baomidou.mybatisplus.service.IService;
+import io.itsource.lx.lovegou.query.BrandQuery;
+import io.itsource.lx.lovegou.util.PageList;
 
 /**
  * <p>
@@ -13,4 +15,5 @@ import com.baomidou.mybatisplus.service.IService;
  */
 public interface IBrandService extends IService<Brand> {
 
+    PageList<Brand> selectPageList(BrandQuery query);
 }
