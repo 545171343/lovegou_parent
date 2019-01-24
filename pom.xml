@@ -16,6 +16,9 @@
         <module>config_server_4396</module>
         <module>product_parent</module>
         <module>lovegou_gen</module>
+        <module>common_parent/common_parent</module>
+        <module>common_parent/common_pare</module>
+        <module>common_parent</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

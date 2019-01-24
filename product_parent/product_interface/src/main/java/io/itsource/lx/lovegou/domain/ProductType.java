@@ -1,11 +1,14 @@
 package io.itsource.lx.lovegou.domain;
 
-import com.baomidou.mybatisplus.enums.IdType;
-import com.baomidou.mybatisplus.annotations.TableId;
-import com.baomidou.mybatisplus.annotations.TableField;
 import com.baomidou.mybatisplus.activerecord.Model;
+import com.baomidou.mybatisplus.annotations.TableField;
+import com.baomidou.mybatisplus.annotations.TableId;
 import com.baomidou.mybatisplus.annotations.TableName;
+import com.baomidou.mybatisplus.enums.IdType;
+
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * <p>
@@ -59,7 +62,8 @@ public class ProductType extends Model<ProductType> {
     private String seoKeywords;
     @TableField("type_template_id")
     private Long typeTemplateId;
-
+    @TableField(exist = false)
+    private List<ProductType> children = new ArrayList<>();
 
     public Long getId() {
         return id;
@@ -165,6 +169,14 @@ public class ProductType extends Model<ProductType> {
         this.typeTemplateId = typeTemplateId;
     }
 
+    public List<ProductType> getChildren() {
+        return children;
+    }
+
+    public void setChildren(List<ProductType> children) {
+        this.children = children;
+    }
+
     @Override
     protected Serializable pkVal() {
         return this.id;
@@ -188,4 +200,6 @@ public class ProductType extends Model<ProductType> {
         ", typeTemplateId=" + typeTemplateId +
         "}";
     }
+
+
 }

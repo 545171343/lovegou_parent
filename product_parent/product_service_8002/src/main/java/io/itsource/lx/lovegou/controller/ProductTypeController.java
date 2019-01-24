@@ -67,10 +67,13 @@ public class ProductTypeController {
     */
     @RequestMapping(value = "/list",method = RequestMethod.GET)
     public List<ProductType> list(){
-
         return productTypeService.selectList(null);
     }
+    @RequestMapping(value = "/treeData",method = RequestMethod.GET)
+    public List<ProductType> treeData(){
 
+        return productTypeService.treeData();
+    }
 
     /**
     * 分页查询数据

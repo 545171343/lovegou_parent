@@ -2,24 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2522c9-a8e9-4b24-958f-7304b87a3e36" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_30.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/common_interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/PageClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/PageClientFallbackFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/RedisClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/RedisClientFallbackFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/common_service_8010.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/CommonApplication_8010.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/condig/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/controller/FastDfsController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/controller/PageController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/controller/RedisController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/utils/FastDfsApiOpr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/utils/RedisUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/utils/VelocityUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/fast_client.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-footer.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-header-top.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-header.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-link.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-nav.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-right-sidebar.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/home.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/productType/product.type.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/productType/product.type.vm.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/Brand.java" afterPath="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/Brand.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_interface/target/classes/io/itsource/lx/lovegou/domain/Brand.class" afterPath="$PROJECT_DIR$/product_parent/product_interface/target/classes/io/itsource/lx/lovegou/domain/Brand.class" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/ProductType.java" afterPath="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/ProductType.java" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_interface/target/classes/io/itsource/lx/lovegou/domain/ProductType.class" afterPath="$PROJECT_DIR$/product_parent/product_interface/target/classes/io/itsource/lx/lovegou/domain/ProductType.class" />
       <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/product_service_8002.iml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/product_service_8002.iml" />
       <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/BrandController.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/BrandController.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/BrandMapper.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/BrandMapper.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IBrandService.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IBrandService.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/bootstrap.yml" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/io/itsource/lx/lovegou/mapper/BrandMapper.xml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/io/itsource/lx/lovegou/mapper/BrandMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/ProductServiceApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/controller/BrandController.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/controller/BrandController.class" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/BrandMapper.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/BrandMapper.class" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/BrandMapper.xml" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/BrandMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/IBrandService.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/IBrandService.class" />
-      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductTypeController.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductTypeController.java" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IProductTypeService.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IProductTypeService.java" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/ProductTypeServiceImpl.java" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/ProductTypeServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/ProductServiceApplication.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/ProductServiceApplication.class" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/controller/ProductTypeController.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/controller/ProductTypeController.class" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/IProductTypeService.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/IProductTypeService.class" />
+      <change beforePath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/ProductTypeServiceImpl.class" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/ProductTypeServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/DocumentationConfig.java" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/DocumentationConfig.java" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/io/itsource/lx/cofig/DocumentationConfig.class" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/io/itsource/lx/cofig/DocumentationConfig.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,6 +80,12 @@
     <ignored path="$PROJECT_DIR$/product_parent/product_service_8002/target/" />
     <ignored path="$PROJECT_DIR$/product_parent/product_interface/target/" />
     <ignored path="$PROJECT_DIR$/lovegou_gen/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_parent/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_pare/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_pare/common_interface/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_interface/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_service_8010/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +131,7 @@
     <favorites_list name="lovegou_parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,30 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/io/itsource/lx/lovegou/domain/lovegou/query/BaseQuery.java" />
-        <option value="$PROJECT_DIR$/lovegou_gen/pom.xml" />
-        <option value="$PROJECT_DIR$/lovegou_gen/src/main/resources/aigou_product.properties" />
-        <option value="$PROJECT_DIR$/lovegou_gen/src/main/java/io/itsource/lx/lovegou/GenteratorCode.java" />
-        <option value="$PROJECT_DIR$/lovegou_gen/src/main/resources/templates/client.java.vm" />
-        <option value="$PROJECT_DIR$/lovegou_gen/src/main/resources/templates/ClientHystrixFallbackFactory.java.vm" />
-        <option value="$PROJECT_DIR$/lovegou_gen/src/main/resources/templates/controller.java.vm" />
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/io/itsource/lx/lovegou/domain/lovegou/util/StrUtils.java" />
-        <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/DocumentationConfig.java" />
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/io/itsource/lx/lovegou/domain/lovegou/util/PageList.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/io/itsource/lx/lovegou/BrandMapper.xml" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/mapper/BrandMapper.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/controller/BrandController.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/controller/ProductTypeController.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductTypeController.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/ProductMapper.xml" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/test.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/ProductServiceApplication.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/Product.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/service/IProductService.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/mapper/ProductMapper.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/io/itsource/lx/lovegou/mapper/ProductMapper.xml" />
         <option value="$PROJECT_DIR$/lovegou_gen/src/main/resources/lovegou_product.properties" />
         <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/query/ProductQuery.java" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductController.java" />
@@ -145,7 +172,6 @@
         <option value="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/config/MybatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/io/itsource/lx/lovegou/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/io/itsource/lx/lovegou/PlatApplication_8001.java" />
@@ -155,11 +181,36 @@
         <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/Brand.java" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/test/test/io/itsource/lx/lovegou/BrandServiceTest.java" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/BrandController.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.java" />
-        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_pare/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_pare/common_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/RedisClientFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/CommonApplication_8010.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/PageClient.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/io/itsource/lx/lovegou/client/RedisClient.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/utils/VelocityUtils.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/utils/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/controller/FastDfsController.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/condig/Swagger2.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/ProductType.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/ltsource/lx/lovegou/utils/FastDfsApiOpr.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/pom.xml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/ProductTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/CommonApplication_8010.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/io/itsource/lx/lovegou/condig/Swagger2.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java" />
       </list>
     </option>
   </component>
@@ -187,15 +238,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lovegou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="376" />
-    <option name="y" value="149" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="336" />
+    <option name="y" value="76" />
     <option name="width" value="1382" />
-    <option name="height" value="873" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,6 +271,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,15 +286,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -257,6 +313,7 @@
       <recent name="F:\IdeaProjects\lovegou_parent\basic_parent\src\main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="io.itsource.lx.lovegou" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
@@ -264,11 +321,11 @@
       <recent name="io.itsource.lx.lovegou.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\idea\ideaProjects\lovegou_parent\product_parent\product_service_8002\src\test\test\io\itsource\lx\lovegou" />
-      <recent name="F:\IdeaProjects\lovegou_parent\product_parent\product_service_8002\src\main\java\io\itsource\lx\lovegou" />
-      <recent name="F:\IdeaProjects\lovegou_parent\product_parent\product_service_8002\src\main\resources" />
-      <recent name="F:\IdeaProjects\lovegou_parent\basic_parent\basic_util\src\main\java\io\itsource\lx\lovegou\domain\lovegou\util" />
-      <recent name="F:\IdeaProjects\lovegou_parent\lovegou_gen\src\main\resources" />
+      <recent name="F:\idea\ideaProjects\lovegou_parent\common_parent\common_service_8010\src\main\resources" />
+      <recent name="F:\idea\ideaProjects\lovegou_parent\product_parent\product_service_8002\src\main\resources" />
+      <recent name="F:\idea\ideaProjects\lovegou_parent\common_parent\common_service_8010\src\main\java\io\ltsource\lx\lovegou\utils" />
+      <recent name="F:\idea\ideaProjects\lovegou_parent\common_parent\common_service_8010\src\main\java\io\ltsource\lx\lovegou\controller" />
+      <recent name="F:\idea\ideaProjects\lovegou_parent\common_parent\common_service_8010\src\main\java\io\ltsource\lx\lovegou\condig" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -289,7 +346,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.1640498" />
+    <option name="contentProportion" value="0.15158546" />
   </component>
   <component name="RunManager" selected="Application.ProductServiceApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -403,6 +460,13 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="CommonApplication_8010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.itsource.lx.lovegou.CommonApplication_8010" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="common_service_8010" />
+      <envs />
+    </configuration>
     <configuration name="ConfigServer_4396" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -478,15 +542,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.ZuulGatewayApplication_9527" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.ProductApplication_8002" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.PlatApplication_8001" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaServer_7001" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ConfigServer_4396" />
-      <item index="5" class="java.lang.String" itemvalue="Application.GenteratorCode" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ProductServiceApplication" />
-      <item index="7" class="java.lang.String" itemvalue="JUnit.BrandServiceTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.CommonApplication_8010" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.EurekaServer_7001" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.ConfigServer_4396" />
+      <item index="6" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ProductServiceApplication" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.BrandServiceTest.test" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -541,7 +606,20 @@
       <workItem from="1547706876703" duration="8331000" />
       <workItem from="1547715437276" duration="79000" />
       <workItem from="1547772773220" duration="2904000" />
-      <workItem from="1547805532424" duration="1919000" />
+      <workItem from="1547805532424" duration="5575000" />
+      <workItem from="1547864214165" duration="1071000" />
+      <workItem from="1547986328033" duration="577000" />
+      <workItem from="1547986944593" duration="5413000" />
+      <workItem from="1547994390705" duration="818000" />
+      <workItem from="1548032519243" duration="6725000" />
+      <workItem from="1548153034233" duration="313000" />
+      <workItem from="1548154221062" duration="4186000" />
+      <workItem from="1548238064614" duration="5186000" />
+      <workItem from="1548247024386" duration="1272000" />
+      <workItem from="1548248711478" duration="116000" />
+      <workItem from="1548248884144" duration="162000" />
+      <workItem from="1548250444237" duration="90000" />
+      <workItem from="1548291612174" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="第一次更改">
       <created>1547186372035</created>
@@ -565,7 +643,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106422000" />
+    <option name="totallyTimeSpent" value="137619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,13 +655,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="336" y="76" width="1382" height="1047" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26450893" sideWeight="0.5021322" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45318353" sideWeight="0.50367403" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26450893" sideWeight="0.5021322" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3560268" sideWeight="0.50586355" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6465885" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23601532" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -592,19 +670,19 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33685446" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31488314" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32841328" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20758928" sideWeight="0.496326" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39732143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34933037" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35851184" sideWeight="0.49413645" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21961325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34932348" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" x="199" y="416" width="1497" height="271" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17430703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -615,7 +693,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="387" y="292" width="1357" height="596" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -624,35 +702,35 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26450893" sideWeight="0.5021322" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45318353" sideWeight="0.50367403" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6467433" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6465885" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23667377" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23601532" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1724138" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33705357" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31598985" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6551339" sideWeight="0.496326" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16629465" sideWeight="0.496326" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="387" y="292" width="1357" height="596" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45511222" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53348213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34933037" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21961325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" x="199" y="416" width="1497" height="271" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -688,384 +766,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/query/ProductTypeQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/ProductTypeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/ProductTypeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/product_service_8002.iml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/product_interface.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/java/cn/itsource/lx/lovegou/ConfigServer_4396.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#579#580#0" expanded="false" />
-            <element signature="e#629#630#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="92" lean-forward="false" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/ZuulGatewayApplication_9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/io/itsource/lx/lovegou/domain/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/io/itsource/lx/lovegou/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/io/itsource/lx/lovegou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/io/itsource/lx/lovegou/PlatApplication_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" column="67" lean-forward="false" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="83" column="65" lean-forward="false" selection-start-line="83" selection-start-column="65" selection-end-line="83" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/ProductTypeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lovegou_gen/src/main/java/io/itsource/lx/lovegou/mapper/GenteratorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lovegou_gen/src/main/resources/lovegou_product.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="66" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/io/itsource/lx/cofig/GlobalCorsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/io/itsource/lx/lovegou/util/CodeGenerateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1944">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/query/BrandQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/io/itsource/lx/lovegou/query/BaseQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/test/test/io/itsource/lx/lovegou/BrandServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/mapper/BrandMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/controller/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/controller/BrandController.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/ProductServiceApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/ProductServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/target/classes/io/itsource/lx/lovegou/mapper/BrandMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/impl/BrandServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/service/IBrandService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#514#515#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/io/itsource/lx/lovegou/mapper/BrandMapper.xml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/io/itsource/lx/lovegou/ProductServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="57" />
+        <state relative-caret-position="344">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1547710306199" expanded="true" signature="1070:1174" ph="SELECT b.*,t... t_brand" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/common_parent/common_interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="-486">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/io/itsource/lx/lovegou/domain/Brand.java">
+    <entry file="file://$PROJECT_DIR$/common_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="37" />
-          <folding>
-            <element signature="e#2802#2803#0" expanded="true" />
-            <element signature="e#2836#2837#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-81">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/common_parent/common_service_8010/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="83" />
+        <state relative-caret-position="837">
+          <caret line="76" column="34" lean-forward="true" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1122,7 +872,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>product_interface</last-edited>
+          <last-edited>common_interface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
